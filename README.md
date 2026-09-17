@@ -24,7 +24,7 @@ A lightweight C++ application that validates credit card numbers using the **Luh
 
 ```bash
 # Clone repository
-git clone [https://github.com/T-stacks/credit-card-validator.git](https://github.com/T-stacks/credit-card-validator.git)
+git clone [https://github.com/T-Stacks-M/credit-card-validator.git](https://github.com/T-Stacks-M/credit-card-validator.git)
 cd credit-card-validator
 
 # Create build directory
